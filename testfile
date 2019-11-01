@@ -1,0 +1,14 @@
+<style>
+
+  .test-div { 
+    display: block; width: 100%; height: auto; 
+    padding: 25px; margin: 0px auto; 
+  }
+  
+  .test-div span { font-size: 24px; font-family: sans-serif; color: #000; text-align: center; }
+  
+</style>
+
+<div class="test-div">
+  <span>Hello World!</span>
+</div>
